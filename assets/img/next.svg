@@ -1,0 +1,11 @@
+<svg id="next" xmlns="http://www.w3.org/2000/svg" width="70" height="70"><defs><style>.cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        opacity: 0.8;
+      }
+
+      .cls-2 {
+        fill: #ffba00;
+      }</style></defs><path id="arrow-bg" class="cls-1" d="M1861,1034h-70v70h70v-70Z" transform="translate(-1791 -1034)"/><path id="arrow" class="cls-2" d="M1819.33,1089l13.34-16h0l3.33-4-16.67-20-3.33,4,13.33,16L1816,1085Z" transform="translate(-1791 -1034)"/></svg>

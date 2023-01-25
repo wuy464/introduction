@@ -1,0 +1,8 @@
+<svg id="prev" xmlns="http://www.w3.org/2000/svg" width="70" height="70"><defs><style>.cls-1 {
+        opacity: 0.8;
+      }
+
+      .cls-2 {
+        fill: #ffba00;
+        fill-rule: evenodd;
+      }</style></defs><rect id="arrow-bg" class="cls-1" width="70" height="70"/><path id="arrow" class="cls-2" d="M101.667,1089l-13.333-16h0L85,1069l16.667-20,3.333,4-13.332,16L105,1085Z" transform="translate(-60 -1034)"/></svg>
